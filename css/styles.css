@@ -1,3 +1,17 @@
-.definitions {
+.jscard{
+  border: solid 10px teal;
+  margin: 10px;
+}
+.opcard{
+  border: solid 10px teal;
+  margin: 10px;
+}
+
+#jsdef {
   display: none;
 }
+#opdef {
+  display: none;
+}
+
+
